@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="white"/>
+<style>
+.title{font:700 28px Arial}.layer{font:700 18px Arial;fill:#555}.st{font:12px Arial}.ct{font:700 17px Arial}.comp{font:13px Arial}
+</style>
+<text x="700" y="45" text-anchor="middle" class="title">Self-Service Coffee Kiosk — Layered Architecture</text>
+<text x="70" y="90" class="layer">Presentation Layer</text>
+<text x="530" y="90" class="layer">Business Layer</text>
+<text x="1020" y="90" class="layer">Data / Hardware Layer</text>
+<g fill="white" stroke="black" stroke-width="2">
+<rect x="55" y="180" width="300" height="120"/><rect x="500" y="180" width="310" height="120"/>
+<rect x="500" y="410" width="310" height="120"/><rect x="980" y="180" width="310" height="120"/>
+<rect x="980" y="410" width="310" height="120"/>
+</g>
+<g text-anchor="middle">
+<text x="205" y="220" class="comp">&lt;&lt;component&gt;&gt;</text><text x="205" y="255" class="ct">Touch Screen UI</text>
+<text x="655" y="220" class="comp">&lt;&lt;component&gt;&gt;</text><text x="655" y="255" class="ct">Order Manager</text>
+<text x="655" y="450" class="comp">&lt;&lt;component&gt;&gt;</text><text x="655" y="485" class="ct">Payment Service</text>
+<text x="1135" y="220" class="comp">&lt;&lt;component&gt;&gt;</text><text x="1135" y="255" class="ct">Menu &amp; Pricing DB</text>
+<text x="1135" y="450" class="comp">&lt;&lt;component&gt;&gt;</text><text x="1135" y="485" class="ct">Receipt Printer</text>
+</g>
+<!-- connectors -->
+<g stroke="black" stroke-width="2" fill="none">
+<line x1="355" y1="240" x2="500" y2="240"/><line x1="655" y1="300" x2="655" y2="410"/>
+<line x1="810" y1="240" x2="980" y2="240"/><line x1="810" y1="275" x2="980" y2="450"/>
+</g>
+<!-- provided balls -->
+<g fill="white" stroke="black" stroke-width="2">
+<circle cx="355" cy="240" r="9"/><circle cx="655" cy="410" r="9"/><circle cx="810" cy="240" r="9"/><circle cx="810" cy="275" r="9"/>
+</g>
+<!-- required sockets -->
+<g fill="white" stroke="black" stroke-width="2">
+<path d="M500 230 A10 10 0 0 0 500 250"/><path d="M655 290 A10 10 0 0 0 655 310"/>
+<path d="M980 230 A10 10 0 0 0 980 250"/><path d="M980 440 A10 10 0 0 0 980 460"/>
+</g>
+<g text-anchor="middle" class="st">
+<text x="425" y="205">Order Interface</text><text x="425" y="220">(touch input / API)</text>
+<text x="720" y="355">Payment Interface (API call)</text>
+<text x="895" y="205">Menu Interface</text><text x="895" y="220">(database query)</text>
+<text x="895" y="395">Receipt Interface</text><text x="895" y="410">(hardware / API)</text>
+</g>
+<text x="700" y="620" text-anchor="middle" class="st">Coffee types: Espresso • Americano • Latte   |   Sizes: Small • Large   |   Payment: Credit Card</text>
+<text x="700" y="665" text-anchor="middle" class="st">Provided interface = ball (○)   Required interface = socket   |   Solid lines = internal service communications</text>
+<text x="700" y="740" text-anchor="middle" class="layer">Component interactions</text>
+<text x="700" y="775" text-anchor="middle" class="st">Touch Screen UI → Order Manager → Payment Service / Menu &amp; Pricing DB / Receipt Printer</text>
+</svg>
