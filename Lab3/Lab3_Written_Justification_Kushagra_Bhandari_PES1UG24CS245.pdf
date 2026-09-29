@@ -1,0 +1,59 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1977 >>
+stream
+BT /F2 18 Tf 45 795 Td (Lab 3 - Written Justification) Tj ET
+BT /F1 10 Tf 45 765 Td (Self-Service Coffee Kiosk | PES1UG24CS245) Tj ET
+BT /F2 13 Tf 45 725 Td (Architecture Selection) Tj ET
+BT /F1 10 Tf 45 700 Td (We chose Layered Architecture for the Self-Service Coffee Kiosk System.) Tj ET
+BT /F2 12 Tf 45 665 Td (Architectural Choice) Tj ET
+BT /F1 9 Tf 45 642 Td (The system is organized into Presentation, Business, and Data/Hardware layers.) Tj ET
+BT /F1 9 Tf 45 624 Td (Presentation handles touch input; Business handles orders and payment;) Tj ET
+BT /F1 9 Tf 45 606 Td (Data/Hardware handles menu pricing and receipt printing.) Tj ET
+BT /F2 12 Tf 45 565 Td (Reason 1 - Clear separation of responsibilities) Tj ET
+BT /F1 9 Tf 45 542 Td (Customer interaction, order/payment processing, and storage/hardware access are) Tj ET
+BT /F1 9 Tf 45 524 Td (kept in separate layers, making the system easier to understand and maintain.) Tj ET
+BT /F2 12 Tf 45 483 Td (Reason 2 - Suitable for a focused kiosk application) Tj ET
+BT /F1 9 Tf 45 460 Td (The kiosk has a small, fixed workflow and one payment method. Layering avoids) Tj ET
+BT /F1 9 Tf 45 442 Td (the operational complexity of independently deployed services.) Tj ET
+BT /F2 12 Tf 45 397 Td (Security Advantage) Tj ET
+BT /F1 9 Tf 45 378 Td (Payment processing is isolated in the Payment Service, while layer access can) Tj ET
+BT /F1 9 Tf 45 360 Td (be restricted so components expose only the operations they require.) Tj ET
+BT /F2 12 Tf 45 319 Td (Performance Benefit) Tj ET
+BT /F1 9 Tf 45 296 Td (Direct in-kiosk component communication avoids extra network latency and) Tj ET
+BT /F1 9 Tf 45 278 Td (distributed-service overhead. Menu/pricing data can be accessed locally.) Tj ET
+BT /F2 12 Tf 45 237 Td (Conclusion) Tj ET
+BT /F1 9 Tf 45 214 Td (The architecture provides clear boundaries, straightforward deployment, and) Tj ET
+BT /F1 9 Tf 45 196 Td (a simple communication path for the kiosk scenario.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2430
+%%EOF

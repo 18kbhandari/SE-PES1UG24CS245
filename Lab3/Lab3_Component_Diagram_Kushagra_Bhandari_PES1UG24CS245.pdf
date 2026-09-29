@@ -1,0 +1,70 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1000 650] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1432 >>
+stream
+1 w
+BT /F2 20 Tf 300 610 Td (Self-Service Coffee Kiosk - Layered Architecture) Tj ET
+60 440 220 90 re S
+BT /F1 9 Tf 75 502 Td (<<component>>) Tj ET
+BT /F2 14 Tf 75 472 Td (Touch Screen UI) Tj ET
+390 440 230 90 re S
+BT /F1 9 Tf 405 502 Td (<<component>>) Tj ET
+BT /F2 14 Tf 405 472 Td (Order Manager) Tj ET
+390 260 230 90 re S
+BT /F1 9 Tf 405 322 Td (<<component>>) Tj ET
+BT /F2 14 Tf 405 292 Td (Payment Service) Tj ET
+720 440 220 90 re S
+BT /F1 9 Tf 735 502 Td (<<component>>) Tj ET
+BT /F2 14 Tf 735 472 Td (Menu & Pricing DB) Tj ET
+720 260 220 90 re S
+BT /F1 9 Tf 735 322 Td (<<component>>) Tj ET
+BT /F2 14 Tf 735 292 Td (Receipt Printer) Tj ET
+280 485 m 390 485 l S
+505 440 m 505 350 l S
+620 485 m 720 485 l S
+620 470 m 720 305 l S
+280 485 7 0 360 arc S
+505 350 7 0 360 arc S
+620 485 7 0 360 arc S
+620 470 7 0 360 arc S
+BT /F1 9 Tf 300 505 Td (Order Interface \(touch/API\)) Tj ET
+BT /F1 9 Tf 535 395 Td (Payment Interface \(API\)) Tj ET
+BT /F1 9 Tf 640 505 Td (Menu Interface \(DB query\)) Tj ET
+BT /F1 9 Tf 640 350 Td (Receipt Interface \(hardware/API\)) Tj ET
+BT /F2 12 Tf 70 190 Td (Presentation) Tj ET
+BT /F2 12 Tf 390 190 Td (Business) Tj ET
+BT /F2 12 Tf 720 190 Td (Data / Hardware) Tj ET
+BT /F1 10 Tf 120 130 Td (Coffee: Espresso, Americano, Latte | Sizes: Small, Large | Credit card only) Tj ET
+BT /F1 9 Tf 120 95 Td (Provided interface = ball | Required interface = socket | Solid lines = internal communication) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000258 00000 n 
+0000000328 00000 n 
+0000000403 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1886
+%%EOF
