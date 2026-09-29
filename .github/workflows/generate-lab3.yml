@@ -2,9 +2,8 @@ name: Generate Lab 3 submission files
 on:
   push:
     paths:
-      - 'Lab3_Component_Diagram.svg'
-      - 'Lab3_Written_Justification.md'
-      - 'generate_lab3.py'
+      - 'Lab3/**'
+      - '.github/workflows/generate-lab3.yml'
 permissions:
   contents: write
 jobs:
@@ -12,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate PDFs and PNG
-        run: python generate_lab3.py
+      - name: Generate submission files
+        run: python Lab3/generate_lab3.py
       - name: Commit generated submission files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Lab3_Component_Diagram_Kushagra_Bhandari_PES1UG24CS245.pdf Lab3_Component_Diagram_Kushagra_Bhandari_PES1UG24CS245.png Lab3_Written_Justification_Kushagra_Bhandari_PES1UG24CS245.pdf
-          git diff --cached --quiet || git commit -m "Submit Lab 3 component modelling assignment"
+          git add Lab3/Lab3_Component_Diagram_Kushagra_Bhandari_PES1UG24CS245.pdf Lab3/Lab3_Component_Diagram_Kushagra_Bhandari_PES1UG24CS245.png Lab3/Lab3_Written_Justification_Kushagra_Bhandari_PES1UG24CS245.pdf Lab3/Lab3_Written_Justification_Kushagra_Bhandari_PES1UG24CS245.docx
+          git diff --cached --quiet || git commit -m "Update Lab 3 final submission"
           git push
