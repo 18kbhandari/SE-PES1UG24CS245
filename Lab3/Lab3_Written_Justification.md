@@ -5,19 +5,19 @@
 We chose **Layered Architecture** for the Self-Service Coffee Kiosk System.
 
 ### Architectural Choice
-The system is organized into Presentation, Business, and Data/Hardware layers. The Presentation layer handles the touch screen, the Business layer contains the Order Manager and Payment Service, and the Data/Hardware layer handles menu/pricing storage and receipt printing.
+The system is divided into Presentation, Business, and Data/Hardware layers. The Presentation layer handles touch-screen interaction; the Business layer handles ordering and payment; and the Data/Hardware layer handles menu/pricing storage and receipt printing.
 
 ### Reason 1 – Clear separation of responsibilities
-The kiosk has distinct responsibilities: customer interaction, order/payment processing, and menu/pricing plus printer access. Layered architecture keeps these responsibilities separate, making the design easier to understand and maintain.
+The kiosk has distinct responsibilities: customer interaction, order/payment processing, and menu/pricing plus printer access. Keeping these responsibilities in separate layers makes the component boundaries clear and simplifies maintenance.
 
-### Reason 2 – Suitable for a focused kiosk application
-The scenario is a single kiosk workflow with a small set of coffee types, sizes, and one payment method. A layered design avoids the operational complexity of multiple independently deployed services while still giving clear component boundaries.
+### Reason 2 – Suitable for a focused kiosk workflow
+The scenario has a small, fixed workflow: three coffee types, two sizes, and credit-card payment only. A layered design keeps this workflow straightforward without introducing the operational complexity of independently deployed services.
 
 ### Security Advantage
-Payment processing is isolated inside the Payment Service rather than being mixed with the touch screen or database logic. Access between layers can be restricted so only the required payment operations are exposed, reducing unnecessary access to payment-related functionality.
+Payment processing is isolated in the Payment Service instead of being mixed with the touch-screen or database components. Layer boundaries can restrict access so components expose only the operations required by other components.
 
 ### Performance Benefit
-Most interactions remain within the kiosk through direct component/service communication, avoiding the additional network latency and operational overhead associated with a distributed microservices deployment. Menu and pricing data can also be retrieved directly from the local data component.
+The kiosk can communicate directly between local components, avoiding unnecessary network hops and distributed-service overhead. Menu and pricing information can also be accessed locally by the kiosk.
 
 ### Conclusion
-The selected architecture provides clear responsibility boundaries, straightforward deployment, and a simple communication path for this kiosk scenario.
+Layered Architecture provides clear separation, simple deployment, and a straightforward communication path for the kiosk scenario.
