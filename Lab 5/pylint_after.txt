@@ -1,0 +1,8 @@
+﻿************* Module loan_calculator
+loan_calculator.py:36:0: R0913: Too many arguments (6/5) (too-many-arguments)
+loan_calculator.py:36:0: R0917: Too many positional arguments (6/5) (too-many-positional-arguments)
+loan_calculator.py:120:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.79/10 (previous run: 9.79/10, +0.00)
+
