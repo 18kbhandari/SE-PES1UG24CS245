@@ -1,169 +1,173 @@
-IyBMNl9MN181NyDigJQgSW5jb21lIFRheCBDYWxjdWxhdG9yCgoqKkxhYiA3
-OiBGdXp6aW5nIGZvciBJbnB1dCBWYWxpZGF0aW9uIEJ1Z3MqKiAgCioqU3R1
-ZGVudDoqKiBLdXNoYWdyYSBCaGFuZGFyaSAgCioqU1JOOioqIFBFUzFVRzI0
-Q1MyNDUgIAoqKkNvdXJzZToqKiBTb2Z0d2FyZSBFbmdpbmVlcmluZyBMYWIg
-KFVFMjJDUzM0MUFBMiAvIFVFMjJDUzM0MkFBMikgIAoqKlNlY3Rpb24gLyBS
-b2xsOioqIFNlY3Rpb24gRCwgUm9sbCA1NyAgCioqUHl0aG9uIFZlcnNpb246
-KiogUHl0aG9uIDMuOCsgKFZlcmlmaWVkIG9uIFB5dGhvbiAzLjEwLjExKSAg
-CgotLS0KCiMjIDEuIFByb2plY3QgT2JqZWN0aXZlCgpUaGUgb2JqZWN0aXZl
-IG9mIExhYiA3IGlzIHRvIGV4cGxvcmUgKipwcm9wZXJ0eS1iYXNlZCBmdXp6
-IHRlc3RpbmcqKiBhcyBhIHNvZnR3YXJlIHF1YWxpdHkgYXNzdXJhbmNlIGFu
-ZCBkZWZlbnNpdmUgcHJvZ3JhbW1pbmcgdGVjaG5pcXVlIHVzaW5nICoqSHlw
-b3RoZXNpcyoqIGFuZCAqKlB5dGVzdCoqLiAKClVubGlrZSBzdGFuZGFyZCB1
-bml0IHRlc3RpbmcsIHdoaWNoIHR5cGljYWxseSB0ZXN0cyBwcmVkaWN0YWJs
-ZSBpbnB1dHMgYWxvbmcgdGhlICJoYXBweSBwYXRoIiwgZnV6eiB0ZXN0aW5n
-IGF1dG9tYXRpY2FsbHkgZmVlZHMgdW5leHBlY3RlZCwgbWFsZm9ybWVkLCBy
-YW5kb21pemVkLCBib3VuZGFyeSwgYW5kIG51bGwgZGF0YSBpbnRvIGZ1bmN0
-aW9ucyB0byBkZXRlY3QgdW5oYW5kbGVkIGV4Y2VwdGlvbnMsIHR5cGUgZXJy
-b3JzLCBhbmQgcGFyc2luZyBjcmFzaGVzLiBUaGUgdW5jb3ZlcmVkIGJ1Z3Mg
-YXJlIHRoZW4gc3lzdGVtYXRpY2FsbHkgcmVzb2x2ZWQgdGhyb3VnaCAqKmRl
-ZmVuc2l2ZSBwcm9ncmFtbWluZyoqLCBndWFyYW50ZWVpbmcgcm9idXN0bmVz
-cyBhZ2FpbnN0IGFyYml0cmFyeSB1c2VyIGlucHV0LgoKLS0tCgojIyAyLiBU
-b29scyBhbmQgTGlicmFyaWVzIFVzZWQKCi0gKipQeXRob24gMy44KyoqOiBM
-YW5ndWFnZSBydW50aW1lLgotICoqUHl0ZXN0Kio6IFRlc3QgZXhlY3V0aW9u
-IGZyYW1ld29yay4KLSAqKkh5cG90aGVzaXMqKjogUHJvcGVydHktYmFzZWQg
-ZnV6eiB0ZXN0aW5nIGxpYnJhcnkgZm9yIFB5dGhvbi4gR2VuZXJhdGVzIHJh
-bmRvbWl6ZWQgdGVzdCBpbnB1dHMgYW5kIGF1dG9tYXRpY2FsbHkgbWluaW1p
-emVzIGZhaWxpbmcgY2FzZXMgKHNocmlua2luZykuCgotLS0KCiMjIDMuIERl
-c2NyaXB0aW9uIG9mIHRoZSBBcHBsaWNhdGlvbiBGdW5jdGlvbnMKClRoZSBt
-b2R1bGUgYGluY29tZV90YXhfcGFyc2VyLnB5YCBwYXJzZXMgdXNlci1wcm92
-aWRlZCBpbmNvbWUgdGF4IGRldGFpbHM6CgoxLiAqKmBjbGVhbl9wYW4ocGFu
-KWAqKjoKICAgLSBUYWtlcyBhIFBBTiBzdHJpbmcgKGUuZy4gYCJhYmNkZSAx
-MjM0ZiJgKS4KICAgLSBSZW1vdmVzIGFsbCBpbnRlcm5hbCBhbmQgc3Vycm91
-bmRpbmcgd2hpdGVzcGFjZS4KICAgLSBDb252ZXJ0cyBhbGwgY2hhcmFjdGVy
-cyB0byB1cHBlcmNhc2UgKGAiQUJDREUxMjM0RiJgKS4KICAgLSBTYWZlbHkg
-aGFuZGxlcyBgTm9uZWAsIG5vbi1zdHJpbmcgdHlwZXMsIGFuZCBibGFuayBp
-bnB1dHMsIHJldHVybmluZyBhbiBlbXB0eSBzdHJpbmcgYCIiYCB3aGVyZSBh
-cHByb3ByaWF0ZS4KCjIuICoqYHBhcnNlX2Ftb3VudCh0ZXh0KWAqKjoKICAg
-LSBQYXJzZXMgYSBjdXJyZW5jeSBhbW91bnQgc3RyaW5nIGludG8gYW4gaW50
-ZWdlci4KICAgLSBSb2J1c3RseSBoYW5kbGVzIEluZGlhbiBydXBlZSBmb3Jt
-YXR0aW5nIHZhcmlhdGlvbnMgaW5jbHVkaW5nIGAiUnMgMTIsNTAsMDAwImAs
-IGAiUnMuIDEyLDUwLDAwMCJgLCBgIuKCuTEyLDUwLDAwMCJgLCBhbmQgYCJJ
-TlIgMTIsNTAsMDAwImAuCiAgIC0gUmVtb3ZlcyBjdXJyZW5jeSBzeW1ib2xz
-LCBjb21tYXMsIGFuZCB3aGl0ZXNwYWNlLgogICAtIFNhZmVseSBjb252ZXJ0
-cyB2YWxpZCBzdHJpbmdzIGFuZCBkaXJlY3QgbnVtZXJpYyB0eXBlcyBpbnRv
-IGludGVnZXJzLgogICAtIEVuY2xvc2VzIGNvbnZlcnNpb24gaW4gZXhjZXB0
-aW9uIGVudmVsb3BlcyBhbmQgcmV0dXJucyBgMGAgYXMgZmFsbGJhY2sgb24g
-bWFsZm9ybWVkIG9yIGVtcHR5IGlucHV0cyB3aXRob3V0IGNyYXNoaW5nLgoK
-My4gKipgcGFyc2VfdGF4X3NsYWIobGluZSlgKio6CiAgIC0gUGFyc2VzIHRh
-eCBicmFja2V0IGV4cHJlc3Npb25zIGZvcm1hdHRlZCBhcyBgTE9XLUhJR0g6
-UkFURWAgKGUuZy4gYCIyNTAwMDAtNTAwMDAwOjUiYCwgYCI1MDAwMDAtMTAw
-MDAwMDoyMCUiYCkuCiAgIC0gVmFsaWRhdGVzIGRlbGltaXRlcnMgKGA6YCBh
-bmQgYC1gKSBiZWZvcmUgdW5wYWNraW5nLgogICAtIFN1cHBvcnRzIHBvc2l0
-aXZlIGFuZCBuZWdhdGl2ZSBib3VuZGFyeSBsaW1pdHMuCiAgIC0gU2FmZWx5
-IHJldHVybnMgYSAzLXR1cGxlIG9mIGludGVnZXJzIGAobG93LCBoaWdoLCBy
-YXRlKWAuCiAgIC0gUmV0dXJucyBzYWZlIGRlZmF1bHQgYCgwLCAwLCAwKWAg
-Zm9yIGBOb25lYCwgbm9uLXN0cmluZywgb3IgbWFsZm9ybWVkIGlucHV0cyB3
-aXRob3V0IGNyYXNoaW5nLgoKLS0tCgojIyA0LiBCdWdzIERpc2NvdmVyZWQg
-dmlhIEh5cG90aGVzaXMgRnV6emluZwoKUnVubmluZyBgcHl0ZXN0IHRlc3Rf
-aW5jb21lX3RheF9wYXJzZXIucHlgIGFnYWluc3QgdGhlIGluaXRpYWwgc3Rh
-cnRlciBjb2RlIGltbWVkaWF0ZWx5IHVuY292ZXJlZCBtdWx0aXBsZSBjcml0
-aWNhbCBmYWlsdXJlczoKCnwgRnVuY3Rpb24gfCBWdWxuZXJhYmlsaXR5IHwg
-U2hydW5rIEZhaWxpbmcgSW5wdXQgfCBFeGNlcHRpb24gUmFpc2VkIHwgUm9v
-dCBDYXVzZSB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IGBjbGVhbl9wYW4o
-KWAgfCBVbmhhbmRsZWQgYE5vbmVgIC8gaW52YWxpZCB0eXBlcyB8IGBzID0g
-Tm9uZWAgfCBgQXR0cmlidXRlRXJyb3I6ICdOb25lVHlwZScgb2JqZWN0IGhh
-cyBubyBhdHRyaWJ1dGUgJ3N0cmlwJ2AgfCBBc3N1bWVkIGlucHV0IGlzIGFs
-d2F5cyBhIHN0cmluZyBhbmQgY2FsbGVkIGAuc3RyaXAoKWAgZGlyZWN0bHku
-IHwKfCBgcGFyc2VfYW1vdW50KClgIHwgVW5oYW5kbGVkIGBOb25lYCAmIGVt
-cHR5IHN0cmluZyB8IGBzID0gTm9uZWA8YnI+YHMgPSAnJ2AgfCBgQXR0cmli
-dXRlRXJyb3I6ICdOb25lVHlwZScgb2JqZWN0IGhhcyBubyBhdHRyaWJ1dGUg
-J3JlcGxhY2UnYDxicj5gVmFsdWVFcnJvcjogaW52YWxpZCBsaXRlcmFsIGZv
-ciBpbnQoKSB3aXRoIGJhc2UgMTA6ICcnYCB8IENhbGxlZCBgLnJlcGxhY2Uo
-KWAgb24gbnVsbCBpbnB1dDsgcGFzc2VkIGVtcHR5IHN0cmluZyBvciBub24t
-bnVtZXJpYyB0ZXh0IGRpcmVjdGx5IHRvIGBpbnQoKWAuIHwKfCBgcGFyc2Vf
-dGF4X3NsYWIoKWAgfCBVbnNhZmUgdHVwbGUgdW5wYWNraW5nIG9uIGAuc3Bs
-aXQoKWAgfCBgcyA9IE5vbmVgPGJyPmBzID0gJydgPGJyPmBzID0gJzonYCB8
-IGBBdHRyaWJ1dGVFcnJvcjogJ05vbmVUeXBlJyBvYmplY3QgaGFzIG5vIGF0
-dHJpYnV0ZSAnc3BsaXQnYDxicj5gVmFsdWVFcnJvcjogbm90IGVub3VnaCB2
-YWx1ZXMgdG8gdW5wYWNrIChleHBlY3RlZCAyLCBnb3QgMSlgIHwgQ2FsbGVk
-IGAuc3BsaXQoKWAgb24gYE5vbmVgOyBibGluZGx5IHVucGFja2VkIGxpc3Rz
-IGludG8gdmFyaWFibGVzIHdpdGhvdXQgdmFsaWRhdGluZyBsZW5ndGguIHwK
-Ci0tLQoKIyMgNS4gRGVmZW5zaXZlIEZpeGVzIEltcGxlbWVudGVkCgoxLiAq
-KmBjbGVhbl9wYW4ocGFuKWAqKjoKICAgLSBDaGVjayBgaWYgcGFuIGlzIE5v
-bmU6IHJldHVybiAiImAuCiAgIC0gSWYgYHBhbmAgaXMgbm90IGEgc3RyaW5n
-LCBjb2VyY2UgdmlhIGBzdHIocGFuKWAuCiAgIC0gUmVtb3ZlIGFsbCB3aGl0
-ZXNwYWNlIGNoYXJhY3RlcnMgc2FmZWx5IHVzaW5nIGAnJy5qb2luKHBhbi5z
-cGxpdCgpKS51cHBlcigpYC4KCjIuICoqYHBhcnNlX2Ftb3VudCh0ZXh0KWAq
-KjoKICAgLSBSZXR1cm5zIGAwYCBpZiBgdGV4dCBpcyBOb25lYCBvciBpbnZh
-bGlkIHR5cGUuIERpcmVjdGx5IHJldHVybnMgYGludCh0ZXh0KWAgaWYgbnVt
-ZXJpYyBpbnRlZ2VyL2Zsb2F0LgogICAtIFN5c3RlbWF0aWNhbGx5IGNsZWFu
-cyBjdXJyZW5jeSBpbmRpY2F0b3JzIChgIlJzLiJgLCBgIlJzImAsIGAicnMi
-YCwgYCJSUyJgLCBgIuKCuSJgLCBgIklOUiJgLCBgImluciJgKSwgY29tbWFz
-LCBhbmQgc3BhY2VzLgogICAtIFdyYXBzIGNvbnZlcnNpb24gaW4gYHRyeS4u
-LmV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yLCBPdmVyZmxvd0Vycm9y
-KWAgcmV0dXJuaW5nIGRlZmF1bHQgYDBgLgoKMy4gKipgcGFyc2VfdGF4X3Ns
-YWIobGluZSlgKio6CiAgIC0gUmV0dXJucyBgKDAsIDAsIDApYCBpZiBgbGlu
-ZSBpcyBOb25lYCBvciBub3QgYSBzdHJpbmcuCiAgIC0gU3BsaXRzIG9uIGA6
-YCBhbmQgdmVyaWZpZXMgYGxlbihwYXJ0cykgPT0gMmAuCiAgIC0gU3RyaXBz
-IG9wdGlvbmFsIGAlYCBmcm9tIHJhdGUuCiAgIC0gU3BsaXRzIGxpbWl0cyBv
-biBgLWAgc3VwcG9ydGluZyBzdGFuZGFyZCBib3VuZHMgYW5kIG5lZ2F0aXZl
-IG51bWJlcnMuCiAgIC0gV3JhcHMgY29udmVyc2lvbnMgaW4gYHRyeS4uLmV4
-Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yLCBPdmVyZmxvd0Vycm9yKWAg
-cmV0dXJuaW5nIGRlZmF1bHQgYCgwLCAwLCAwKWAuCgotLS0KCiMjIDYuIEhv
-dyB0byBJbnN0YWxsIERlcGVuZGVuY2llcwoKRnJvbSBpbnNpZGUgdGhlIGBM
-QUI3YCBmb2xkZXI6CmBgYGJhc2gKcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1l
-bnRzLnR4dApgYGAKT3IgZGlyZWN0bHk6CmBgYGJhc2gKcGlwIGluc3RhbGwg
-aHlwb3RoZXNpcyBweXRlc3QKYGBgCgotLS0KCiMjIDcuIEhvdyB0byBSdW4g
-dGhlIEFwcGxpY2F0aW9uCgpgYGBiYXNoCnB5dGhvbiBpbmNvbWVfdGF4X3Bh
-cnNlci5weQpgYGAKKipTYW1wbGUgSW5wdXRzOioqCi0gRW50ZXIgYSBQQU46
-IGBhYmNkZSAxMjM0ZmAKLSBFbnRlciBhbiBhbW91bnQ6IGBScyAxMiw1MCww
-MDBgCi0gRW50ZXIgYSB0YXggc2xhYjogYDI1MDAwMC01MDAwMDA6NWAKCioq
-T3V0cHV0OioqCmBgYAo9PT09IFJ1bm5pbmcgY2xlYW5fcGFuID09PT0KRW50
-ZXIgYSBQQU4gKGUuZy4gYWJjZGUgMTIzNGYpOiBDbGVhbmVkIFBBTjogQUJD
-REUxMjM0RgoKPT09PSBSdW5uaW5nIHBhcnNlX2Ftb3VudCA9PT09CkVudGVy
-IGFuIGFtb3VudCAoZS5nLiBScyAxMiw1MCwwMDApOiBBbW91bnQgaW4gcnVw
-ZWVzOiAxMjUwMDAwCgo9PT09IFJ1bm5pbmcgcGFyc2VfdGF4X3NsYWIgPT09
-PQpFbnRlciBhIHRheCBzbGFiIGFzIExPVy1ISUdIOlJBVEUgKGUuZy4gMjUw
-MDAwLTUwMDAwMDo1KTogVGF4IHNsYWIgKGxvdywgaGlnaCwgcmF0ZSk6ICgy
-NTAwMDAsIDUwMDAwMCwgNSkKYGBgCgotLS0KCiMjIDguIEhvdyB0byBFeGVj
-dXRlIHRoZSBUZXN0cwoKUnVuIHRoZSB0ZXN0IHN1aXRlIHdpdGggUHl0ZXN0
-OgpgYGBiYXNoCnB5dGhvbiAtbSBweXRlc3QgdGVzdF9pbmNvbWVfdGF4X3Bh
-cnNlci5weSAtdgpgYGAKCi0tLQoKIyMgOS4gRmluYWwgVGVzdCBSZXN1bHRz
-CgpgYGB0ZXh0Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09IHRlc3Qg
-c2Vzc2lvbiBzdGFydHMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K
-cGxhdGZvcm0gd2luMzIgLS0gUHl0aG9uIDMuMTAuMTEsIHB5dGVzdC05LjIu
-MCwgcGx1Z2d5LTEuNy4wCnJvb3RkaXI6IEM6XFVzZXJzXGJoYW5kXERlc2t0
-b3BcTDZfTDdfNTdfaW5jb21lX3RheFxMQUI3CnBsdWdpbnM6IGFueWlvLTQu
-MTYuMCwgaHlwb3RoZXNpcy02LjE2OC41LCBwbGF0Zm9ybWRpcnMtNC4xMi40
-CmNvbGxlY3RlZCA2IGl0ZW1zCgp0ZXN0X2luY29tZV90YXhfcGFyc2VyLnB5
-Ojp0ZXN0X2NsZWFuX3Bhbl9ub19jcmFzaCBQQVNTRUQgICAgICAgICAgICAg
-ICAgWyAxNiVdCnRlc3RfaW5jb21lX3RheF9wYXJzZXIucHk6OnRlc3RfcGFy
-c2VfYW1vdW50X25vX2NyYXNoIFBBU1NFRCAgICAgICAgICAgICBbIDMzJV0K
-dGVzdF9pbmNvbWVfdGF4X3BhcnNlci5weTo6dGVzdF9wYXJzZV90YXhfc2xh
-Yl9ub19jcmFzaCBQQVNTRUQgICAgICAgICAgIFsgNTAlXQp0ZXN0X2luY29t
-ZV90YXhfcGFyc2VyLnB5Ojp0ZXN0X2NsZWFuX3Bhbl9leHBlY3RlZF9iZWhh
-dmlvciBQQVNTRUQgICAgICAgWyA2NiVdCnRlc3RfaW5jb21lX3RheF9wYXJz
-ZXIucHk6OnRlc3RfcGFyc2VfYW1vdW50X2V4cGVjdGVkX2JlaGF2aW9yIFBB
-U1NFRCAgICBbIDgzJV0KdGVzdF9pbmNvbWVfdGF4X3BhcnNlci5weTo6dGVz
-dF9wYXJzZV90YXhfc2xhYl9leHBlY3RlZF9iZWhhdmlvciBQQVNTRUQgIFsx
-MDAlXQoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IDYgcGFzc2Vk
-IGluIDAuNDJzID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpgYGAK
-LSAqKkZ1enppbmcgQ292ZXJhZ2UqKjogT3ZlciAxMDAgcmFuZG9tLCBib3Vu
-ZGFyeSwgbnVsbCwgYW5kIG1hbGZvcm1lZCBpbnB1dHMgdGVzdGVkIHBlciBm
-dW5jdGlvbiB3aXRoICoqemVybyBjcmFzaGVzKiouCi0gKipCZWhhdmlvcmFs
-IFZlcmlmaWNhdGlvbioqOiBGb3JtYXR0ZWQgcnVwZWUgc3RyaW5ncywgdXBw
-ZXJjYXNlIGNvbnZlcnNpb24sIHdoaXRlc3BhY2UgcmVtb3ZhbCwgYW5kIGZh
-bGxiYWNrIHJldHVybnMgdmVyaWZpZWQuCgotLS0KCiMjIDEwLiBEZWxpdmVy
-YWJsZXMgYW5kIEZpbGUgT3JnYW5pemF0aW9uCgpgYGB0ZXh0CkxBQjcvCuKU
-ggrilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAgICAgICAgICAgICAg
-ICAgICAgICAgIyBDb21wcmVoZW5zaXZlIGxhYiBkb2N1bWVudGF0aW9uCuKU
-nOKUgOKUgCBpbmNvbWVfdGF4X3BhcnNlci5weSAgICAgICAgICAgICAgICAg
-ICAgICAjIEhhcmRlbmVkIGFwcGxpY2F0aW9uIGZpbGUK4pSc4pSA4pSAIHRl
-c3RfaW5jb21lX3RheF9wYXJzZXIucHkgICAgICAgICAgICAgICAgICMgQ29t
-cGxldGVkIEh5cG90aGVzaXMgdGVzdCBzdWl0ZQrilJzilIDilIAgcmVxdWly
-ZW1lbnRzLnR4dCAgICAgICAgICAgICAgICAgICAgICAgICAgIyBEZXBlbmRl
-bmNpZXMgKGh5cG90aGVzaXMsIHB5dGVzdCkK4pSc4pSA4pSAIHJlZmxlY3Rp
-b24ubWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgQW5zd2VycyB0
-byB0aGUgMyByZWZsZWN0aW9uIHF1ZXN0aW9ucwrilJzilIDilIAgUEVTMVVH
-MjRDUzI0NV9LdXNoYWdyYV9CaGFuZGFyaV9MQUI3LnBkZiAgIyBGaW5hbCBz
-dWJtaXNzaW9uIFBERiB3aXRoIHNjcmVlbnNob3RzICYgcmVmbGVjdGlvbgri
-lIIK4pSU4pSA4pSAIHNjcmVlbnNob3RzLwogICAg4pSc4pSA4pSAIFNTMV9v
-cmlnaW5hbF9hcHBsaWNhdGlvbl9vdXRwdXQucG5nICAgIyBPdXRwdXQgb2Yg
-b3JpZ2luYWwgYXBwbGljYXRpb24KICAgIOKUnOKUgOKUgCBTUzJfZmFpbGlu
-Z19oeXBvdGhlc2lzX3Rlc3RzLnBuZyAgICAgICMgRmFpbGluZyBIeXBvdGhl
-c2lzIHRlc3RzIG9uIGJ1Z2d5IGNvZGUKICAgIOKUnOKUgOKUgCBTUzNfZml4
-ZWRfYXBwbGljYXRpb25fb3V0cHV0LnBuZyAgICAgICMgT3V0cHV0IG9mIGZp
-eGVkIGFwcGxpY2F0aW9uCiAgICDilJTilIDilIAgU1M0X3Bhc3NpbmdfaHlw
-b3RoZXNpc190ZXN0cy5wbmcgICAgICAjIFBhc3NpbmcgSHlwb3RoZXNpcyB0
-ZXN0cyBvbiBmaXhlZCBjb2RlCmBgYAo=
+# L6_L7_57 — Income Tax Calculator
+
+**Lab 7: Fuzzing for Input Validation Bugs**  
+**Student:** Kushagra Bhandari  
+**SRN:** PES1UG24CS245  
+**Course:** Software Engineering Lab (UE22CS341AA2 / UE22CS342AA2)  
+**Section / Roll:** Section D, Roll 57  
+**Python Version:** Python 3.8+ (Verified on Python 3.10.11)  
+
+---
+
+## 1. Project Objective
+
+The objective of Lab 7 is to explore **property-based fuzz testing** as a software quality assurance and defensive programming technique using **Hypothesis** and **Pytest**. 
+
+Unlike standard unit testing, which typically tests predictable inputs along the "happy path", fuzz testing automatically feeds unexpected, malformed, randomized, boundary, and null data into functions to detect unhandled exceptions, type errors, and parsing crashes. The uncovered bugs are then systematically resolved through **defensive programming**, guaranteeing robustness against arbitrary user input.
+
+---
+
+## 2. Tools and Libraries Used
+
+- **Python 3.8+**: Language runtime.
+- **Pytest**: Test execution framework.
+- **Hypothesis**: Property-based fuzz testing library for Python. Generates randomized test inputs and automatically minimizes failing cases (shrinking).
+
+---
+
+## 3. Description of the Application Functions
+
+The module `income_tax_parser.py` parses user-provided income tax details:
+
+1. **`clean_pan(pan)`**:
+   - Takes a PAN string (e.g. `"abcde 1234f"`).
+   - Removes all internal and surrounding whitespace.
+   - Converts all characters to uppercase (`"ABCDE1234F"`).
+   - Safely handles `None`, non-string types, and blank inputs, returning an empty string `""` where appropriate.
+
+2. **`parse_amount(text)`**:
+   - Parses a currency amount string into an integer.
+   - Robustly handles Indian rupee formatting variations including `"Rs 12,50,000"`, `"Rs. 12,50,000"`, `"₹12,50,000"`, and `"INR 12,50,000"`.
+   - Removes currency symbols, commas, and whitespace.
+   - Safely converts valid strings and direct numeric types into integers.
+   - Encloses conversion in exception envelopes and returns `0` as fallback on malformed or empty inputs without crashing.
+
+3. **`parse_tax_slab(line)`**:
+   - Parses tax bracket expressions formatted as `LOW-HIGH:RATE` (e.g. `"250000-500000:5"`, `"500000-1000000:20%"`).
+   - Validates delimiters (`:` and `-`) before unpacking.
+   - Supports positive and negative boundary limits.
+   - Safely returns a 3-tuple of integers `(low, high, rate)`.
+   - Returns safe default `(0, 0, 0)` for `None`, non-string, or malformed inputs without crashing.
+
+---
+
+## 4. Bugs Discovered via Hypothesis Fuzzing
+
+Running `pytest test_income_tax_parser.py` against the initial starter code immediately uncovered multiple critical failures:
+
+| Function | Vulnerability | Shrunk Failing Input | Exception Raised | Root Cause |
+|---|---|---|---|---|
+| `clean_pan()` | Unhandled `None` / invalid types | `s = None` | `AttributeError: 'NoneType' object has no attribute 'strip'` | Assumed input is always a string and called `.strip()` directly. |
+| `parse_amount()` | Unhandled `None` & empty string | `s = None`<br>`s = ''` | `AttributeError: 'NoneType' object has no attribute 'replace'`<br>`ValueError: invalid literal for int() with base 10: ''` | Called `.replace()` on null input; passed empty string or non-numeric text directly to `int()`. |
+| `parse_tax_slab()` | Unsafe tuple unpacking on `.split()` | `s = None`<br>`s = ''`<br>`s = ':'` | `AttributeError: 'NoneType' object has no attribute 'split'`<br>`ValueError: not enough values to unpack (expected 2, got 1)` | Called `.split()` on `None`; blindly unpacked lists into variables without validating length. |
+
+---
+
+## 5. Defensive Fixes Implemented
+
+1. **`clean_pan(pan)`**:
+   - Check `if pan is None: return ""`.
+   - If `pan` is not a string, coerce via `str(pan)`.
+   - Remove all whitespace characters safely using `''.join(pan.split()).upper()`.
+
+2. **`parse_amount(text)`**:
+   - Returns `0` if `text is None` or invalid type. Directly returns `int(text)` if numeric integer/float.
+   - Systematically cleans currency indicators (`"Rs."`, `"Rs"`, `"rs"`, `"RS"`, `"₹"`, `"INR"`, `"inr"`), commas, and spaces.
+   - Wraps conversion in `try...except (ValueError, TypeError, OverflowError)` returning default `0`.
+
+3. **`parse_tax_slab(line)`**:
+   - Returns `(0, 0, 0)` if `line is None` or not a string.
+   - Splits on `:` and verifies `len(parts) == 2`.
+   - Strips optional `%` from rate.
+   - Splits limits on `-` supporting standard bounds and negative numbers.
+   - Wraps conversions in `try...except (ValueError, TypeError, OverflowError)` returning default `(0, 0, 0)`.
+
+---
+
+## 6. How to Install Dependencies
+
+From inside the `LAB7` folder:
+```bash
+pip install -r requirements.txt
+```
+Or directly:
+```bash
+pip install hypothesis pytest
+```
+
+---
+
+## 7. How to Run the Application
+
+```bash
+python income_tax_parser.py
+```
+**Sample Inputs:**
+- Enter a PAN: `abcde 1234f`
+- Enter an amount: `Rs 12,50,000`
+- Enter a tax slab: `250000-500000:5`
+
+**Output:**
+```
+==== Running clean_pan ====
+Enter a PAN (e.g. abcde 1234f): Cleaned PAN: ABCDE1234F
+
+==== Running parse_amount ====
+Enter an amount (e.g. Rs 12,50,000): Amount in rupees: 1250000
+
+==== Running parse_tax_slab ====
+Enter a tax slab as LOW-HIGH:RATE (e.g. 250000-500000:5): Tax slab (low, high, rate): (250000, 500000, 5)
+```
+
+---
+
+## 8. How to Execute the Tests
+
+Run the test suite with Pytest:
+```bash
+python -m pytest test_income_tax_parser.py -v
+```
+
+---
+
+## 9. Final Test Results
+
+```text
+============================= test session starts =============================
+platform win32 -- Python 3.10.11, pytest-9.2.0, pluggy-1.7.0
+rootdir: C:\Users\bhand\Desktop\L6_L7_57_income_tax\LAB7
+plugins: anyio-4.16.0, hypothesis-6.168.5, platformdirs-4.12.4
+collected 6 items
+
+test_income_tax_parser.py::test_clean_pan_no_crash PASSED                [ 16%]
+test_income_tax_parser.py::test_parse_amount_no_crash PASSED             [ 33%]
+test_income_tax_parser.py::test_parse_tax_slab_no_crash PASSED           [ 50%]
+test_income_tax_parser.py::test_clean_pan_expected_behavior PASSED       [ 66%]
+test_income_tax_parser.py::test_parse_amount_expected_behavior PASSED    [ 83%]
+test_income_tax_parser.py::test_parse_tax_slab_expected_behavior PASSED  [100%]
+
+============================== 6 passed in 0.42s ==============================
+```
+- **Fuzzing Coverage**: Over 100 random, boundary, null, and malformed inputs tested per function with **zero crashes**.
+- **Behavioral Verification**: Formatted rupee strings, uppercase conversion, whitespace removal, and fallback returns verified.
+
+---
+
+## 10. Deliverables and File Organization
+
+```text
+LAB7/
+│
+├── README.md                                 # Comprehensive lab documentation
+├── income_tax_parser.py                      # Hardened application file
+├── test_income_tax_parser.py                 # Completed Hypothesis test suite
+├── requirements.txt                          # Dependencies (hypothesis, pytest)
+├── reflection.md                             # Answers to the 3 reflection questions
+├── PES1UG24CS245_Kushagra_Bhandari_LAB7.pdf  # Final submission PDF with screenshots & reflection
+│
+└── screenshots/
+    ├── SS1_original_application_output.png   # Output of original application
+    ├── SS2_failing_hypothesis_tests.png      # Failing Hypothesis tests on buggy code
+    ├── SS3_fixed_application_output.png      # Output of fixed application
+    └── SS4_passing_hypothesis_tests.png      # Passing Hypothesis tests on fixed code
+```

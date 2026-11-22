@@ -1,125 +1,76 @@
-IyBMYWIgNzogRnV6emluZyBmb3IgSW5wdXQgVmFsaWRhdGlvbiBCdWdzIOKA
-lCBSZWZsZWN0aW9uCgoqKlN0dWRlbnQgTmFtZToqKiBLdXNoYWdyYSBCaGFu
-ZGFyaSAgCioqU1JOOioqIFBFUzFVRzI0Q1MyNDUgIAoqKkNvdXJzZToqKiBT
-b2Z0d2FyZSBFbmdpbmVlcmluZyBMYWIgKFVFMjJDUzM0MUFBMiAvIFVFMjJD
-UzM0MkFBMikgIAoqKlNlY3Rpb24gLyBSb2xsOioqIFNlY3Rpb24gRCwgUm9s
-bCA1NyAgCioqTW9kdWxlOioqIGBpbmNvbWVfdGF4X3BhcnNlci5weWAgLyBg
-cHJvY2Vzc29yLnB5YCAgCioqVGVzdCBTdWl0ZToqKiBgdGVzdF9pbmNvbWVf
-dGF4X3BhcnNlci5weWAgLyBgdGVzdF9wcm9jZXNzb3IucHlgICAKCi0tLQoK
-IyMgMS4gV2hhdCBpcyBmdXp6IHRlc3RpbmcgYW5kIGhvdyBkb2VzIEh5cG90
-aGVzaXMgZGlmZmVyIGZyb20gdHJhZGl0aW9uYWwgdW5pdCB0ZXN0aW5nPwoK
-KipGdXp6IHRlc3RpbmcgKGZ1enppbmcpKiogaXMgYSBkeW5hbWljIHNvZnR3
-YXJlIHRlc3RpbmcgdGVjaG5pcXVlIHdoZXJlIGEgc3lzdGVtIG9yIGZ1bmN0
-aW9uIGlzIGV4ZWN1dGVkIHdpdGggcmFuZG9taXplZCwgdW5leHBlY3RlZCwg
-bWFsZm9ybWVkLCBvciBib3VuZGFyeS1icmVha2luZyBpbnB1dHMgdG8gZGV0
-ZWN0IGNyYXNoZXMsIHVuaGFuZGxlZCBleGNlcHRpb25zLCBtZW1vcnkgbGVh
-a3MsIGFuZCBzZWN1cml0eSB2dWxuZXJhYmlsaXRpZXMuCgoqKkh5cG90aGVz
-aXMgdnMuIFRyYWRpdGlvbmFsIFVuaXQgVGVzdGluZzoqKgotICoqVHJhZGl0
-aW9uYWwgVW5pdCBUZXN0aW5nIChFeGFtcGxlLUJhc2VkKToqKiBUaGUgZGV2
-ZWxvcGVyIHdyaXRlcyBzcGVjaWZpYyB0ZXN0IGNhc2VzIHdpdGggbWFudWFs
-bHkgY2hvc2VuIGlucHV0cyAoZS5nLiwgYXNzZXJ0aW5nIHRoYXQgYHNhbml0
-aXplX3N0cmluZygiIWhlbGxvISIpID09ICJoZWxsbyJgKS4gVGhpcyBhcHBy
-b2FjaCBpcyBoZWF2aWx5IGJpYXNlZCB0b3dhcmQgdGhlIGRldmVsb3Blcidz
-IGFzc3VtcHRpb25zIGFuZCB0eXBpY2FsbHkgdmFsaWRhdGVzIG9ubHkgdGhl
-ICJoYXBweSBwYXRoIiBvciBvYnZpb3VzIGNvcm5lciBjYXNlcy4KLSAqKkh5
-cG90aGVzaXMgKFByb3BlcnR5LUJhc2VkIEZ1enogVGVzdGluZyk6KiogSW5z
-dGVhZCBvZiBpbmRpdmlkdWFsIGlucHV0IGV4YW1wbGVzLCB0aGUgdGVzdGVy
-IGRlZmluZXMgZ2VuZXJhbCAqcHJvcGVydGllcyogb3IgKmludmFyaWFudHMq
-IHRoYXQgbXVzdCBhbHdheXMgaG9sZCB0cnVlIChlLmcuLCAiZm9yIGFueSB0
-ZXh0IG9yIE5vbmUgaW5wdXQsIHRoaXMgZnVuY3Rpb24gbXVzdCBleGVjdXRl
-IHdpdGhvdXQgY3Jhc2hpbmcgb3IgcmFpc2luZyBhbiB1bmhhbmRsZWQgZXhj
-ZXB0aW9uIikuIEh5cG90aGVzaXMgYXV0b21hdGljYWxseSBnZW5lcmF0ZXMg
-aHVuZHJlZHMgb2YgcHNldWRvLXJhbmRvbSwgZGl2ZXJzZSBpbnB1dHMgYWNy
-b3NzIGNoYXJhY3RlciBzZXRzLCBleHRyZW1lIGxlbmd0aHMsIGFuZCBib3Vu
-ZGFyeSB2YWx1ZXMuCi0gKipTaHJpbmtpbmc6KiogV2hlbiBhIGZhaWx1cmUg
-b2NjdXJzLCBIeXBvdGhlc2lzIGF1dG9tYXRpY2FsbHkgcGVyZm9ybXMgaW5w
-dXQgbWluaW1pemF0aW9uICgic2hyaW5raW5nIikuIEl0IHN5c3RlbWF0aWNh
-bGx5IHJlZHVjZXMgYSBjb21wbGV4IGZhaWxpbmcgaW5wdXQgdG8gdGhlIHNp
-bXBsZXN0IHBvc3NpYmxlIGNvdW50ZXJleGFtcGxlIChlLmcuLCByZWR1Y2lu
-ZyBhIGxvbmcgVW5pY29kZSBzdHJpbmcgY2F1c2luZyBhIGNyYXNoIGRvd24g
-dG8gYHMgPSAnJ2Agb3IgYHMgPSBOb25lYCksIG1ha2luZyBkZWJ1Z2dpbmcg
-ZmFzdCBhbmQgc3RyYWlnaHRmb3J3YXJkLgoKLS0tCgojIyAyLiBXaGF0IGNh
-dGVnb3JpZXMgb2YgYnVncyBkaWQgZnV6emluZyB1bmNvdmVyIGluIHRoZSBh
-cHBsaWNhdGlvbiB0aGF0IG1hbnVhbCB0ZXN0aW5nIG1pc3NlZD8KCldoZW4g
-dGhlIG9yaWdpbmFsIGFwcGxpY2F0aW9uIHdhcyBydW4gbWFudWFsbHkgdXNp
-bmcgc2FtcGxlIGlucHV0cyAoYCJhYmNkZSAxMjM0ZiJgLCBgIlJzIDEyLDUw
-LDAwMCJgLCBgIjI1MDAwMC01MDAwMDA6NSJgKSwgaXQgYXBwZWFyZWQgdG8g
-d29yayBjb3JyZWN0bHkuIEhvd2V2ZXIsIEh5cG90aGVzaXMgZnV6emluZyB1
-bmNvdmVyZWQgY3JpdGljYWwgdW5oYW5kbGVkIGlucHV0IHZhbGlkYXRpb24g
-YnVncyBhY3Jvc3MgYWxsIHRocmVlIGZ1bmN0aW9uczoKCiMjIyBBLiBOdWxs
-IFBvaW50ZXIgLyBUeXBlIERlcmVmZXJlbmNlIChgQXR0cmlidXRlRXJyb3Jg
-KQotICoqRnVuY3Rpb25zOioqIGBjbGVhbl9wYW4oKWAsIGBwYXJzZV9hbW91
-bnQoKWAsIGBwYXJzZV90YXhfc2xhYigpYAotICoqRmFpbGluZyBJbnB1dDoq
-KiBgcyA9IE5vbmVgCi0gKipJc3N1ZToqKiBUaGUgb3JpZ2luYWwgZnVuY3Rp
-b25zIGFzc3VtZWQgaW5wdXRzIHdvdWxkIGFsd2F5cyBiZSBzdHJpbmdzIGFu
-ZCBpbnZva2VkIG1ldGhvZHMgbGlrZSBgLnN0cmlwKClgLCBgLnJlcGxhY2Uo
-KWAsIGFuZCBgLnNwbGl0KClgIGRpcmVjdGx5LiBXaGVuIGBOb25lYCB3YXMg
-cHJvdmlkZWQsIFB5dGhvbiBpbW1lZGlhdGVseSB0aHJldyBgQXR0cmlidXRl
-RXJyb3I6ICdOb25lVHlwZScgb2JqZWN0IGhhcyBubyBhdHRyaWJ1dGUgJ3N0
-cmlwJ2AuCgojIyMgQi4gVW5jaGVja2VkIFN0cmluZyBDb252ZXJzaW9ucyAo
-YFZhbHVlRXJyb3JgKQotICoqRnVuY3Rpb246KiogYHBhcnNlX2Ftb3VudCgp
-YAotICoqRmFpbGluZyBJbnB1dHM6KiogYHMgPSAnJ2AsIGBzID0gJ1JzJ2As
-IGBzID0gJ2FiYydgLCBgcyA9ICcgICAnYAotICoqSXNzdWU6KiogQWZ0ZXIg
-c3RyaXBwaW5nIGAiUnMiYCBhbmQgY29tbWFzLCBlbXB0eSBvciBhbHBoYWJl
-dGljIHN0cmluZ3Mgd2VyZSBwYXNzZWQgZGlyZWN0bHkgdG8gYGludCh0ZXh0
-KWAuIFRoaXMgcmVzdWx0ZWQgaW4gYFZhbHVlRXJyb3I6IGludmFsaWQgbGl0
-ZXJhbCBmb3IgaW50KCkgd2l0aCBiYXNlIDEwOiAnJ2AuCgojIyMgQy4gVW5z
-YWZlIFN0cnVjdHVyYWwgVW5wYWNraW5nIChgVmFsdWVFcnJvcmApCi0gKipG
-dW5jdGlvbjoqKiBgcGFyc2VfdGF4X3NsYWIoKWAKLSAqKkZhaWxpbmcgSW5w
-dXRzOioqIGBzID0gJydgLCBgcyA9ICc6J2AsIGBzID0gJzI1MDAwMCdgLCBg
-cyA9ICcxOjI6MydgCi0gKipJc3N1ZToqKiBUaGUgY29kZSBleGVjdXRlZCBg
-bGltaXRzLCByYXRlID0gbGluZS5zcGxpdCgnOicpYCBhbmQgYGxvdywgaGln
-aCA9IGxpbWl0cy5zcGxpdCgnLScpYCB3aXRob3V0IGZpcnN0IGNoZWNraW5n
-IHRoZSBsZW5ndGggb2YgdGhlIHNwbGl0IGFycmF5cy4gQW55IGlucHV0IGxh
-Y2tpbmcgYSBjb2xvbiBvciBoeXBoZW4sIG9yIGNvbnRhaW5pbmcgZXh0cmEg
-ZGVsaW1pdGVycywgY2F1c2VkIGBWYWx1ZUVycm9yOiBub3QgZW5vdWdoIHZh
-bHVlcyB0byB1bnBhY2tgIG9yIGBWYWx1ZUVycm9yOiB0b28gbWFueSB2YWx1
-ZXMgdG8gdW5wYWNrYC4KCiMjIyBELiBUeXBlIEZyYWdpbGl0eSB3aXRoIE5v
-bi1TdHJpbmcgSW5wdXRzCi0gKipBbGwgRnVuY3Rpb25zOioqCi0gV2hlbiBp
-bnRlZ2VycywgZmxvYXRzLCBvciBib29sZWFucyB3ZXJlIHN1cHBsaWVkIGlu
-c3RlYWQgb2Ygc3RyaW5ncywgc3RyaW5nIG1ldGhvZHMgcmFpc2VkIGltbWVk
-aWF0ZSBgQXR0cmlidXRlRXJyb3JgLgoKLS0tCgojIyAzLiBIb3cgZG9lcyBk
-ZWZlbnNpdmUgcHJvZ3JhbW1pbmcgcHJvdGVjdCBhcHBsaWNhdGlvbnMgYWdh
-aW5zdCBtYWxmb3JtZWQgaW5wdXRzIGRpc2NvdmVyZWQgZHVyaW5nIGZ1enpp
-bmc/CgpEZWZlbnNpdmUgcHJvZ3JhbW1pbmcgaXMgdGhlIHByYWN0aWNlIG9m
-IGRlc2lnbmluZyBjb2RlIHVuZGVyIHRoZSBhc3N1bXB0aW9uIHRoYXQgdW5l
-eHBlY3RlZCwgaW52YWxpZCwgb3IgYWR2ZXJzYXJpYWwgaW5wdXRzIHdpbGwg
-b2NjdXIuIFRoZSBmb2xsb3dpbmcgZGVmZW5zaXZlIHN0cmF0ZWdpZXMgd2Vy
-ZSBpbXBsZW1lbnRlZDoKCjEuICoqRXhwbGljaXQgTnVsbCBhbmQgVHlwZSBD
-aGVja2luZzoqKgogICAtIEZ1bmN0aW9ucyBpbW1lZGlhdGVseSB2ZXJpZnkg
-aWYgdGhlIGlucHV0IGlzIGBOb25lYCBhbmQgcmV0dXJuIHNhZmUgZGVmYXVs
-dHMgKGUuZy4sIGAiImAgZm9yIHN0cmluZ3MsIGAwYCBmb3IgbnVtYmVycywg
-YCgwLCAwLCAwKWAgZm9yIHNsYWJzKS4KICAgLSBJZiBhIG5vbi1zdHJpbmcg
-dHlwZSBpcyBwYXNzZWQsIGZ1bmN0aW9ucyBlaXRoZXIgY29udmVydCBpdCBz
-YWZlbHkgKGBzdHIocGFuKWApIG9yIHJldHVybiBhIGZhbGxiYWNrLgoKMi4g
-KipEZWxpYmVyYXRlIFN0cnVjdHVyYWwgVmFsaWRhdGlvbiAoTG9vayBCZWZv
-cmUgWW91IExlYXAgLSBMQllMKToqKgogICAtIEZvciBgcGFyc2VfdGF4X3Ns
-YWJgLCByYXRoZXIgdGhhbiBibGluZGx5IHVucGFja2luZyBgbGluZS5zcGxp
-dCgnOicpYCwgdGhlIGNvZGUgdmFsaWRhdGVzIGBpZiBsZW4ocGFydHMpICE9
-IDI6IHJldHVybiAoMCwgMCwgMClgLgogICAtIExpbWl0cyBhcmUgc3BsaXQg
-YW5kIHZlcmlmaWVkIGJlZm9yZSB1bnBhY2tpbmcuCgozLiAqKkV4Y2VwdGlv
-biBFbnZlbG9wZXMgd2l0aCBTYWZlIEZhbGxiYWNrcyAoRWFzaWVyIHRvIEFz
-ayBGb3JnaXZlbmVzcyAtIEVBRlApOioqCiAgIC0gSW50ZWdlciBjb252ZXJz
-aW9uIGNhbGxzIChgaW50KClgKSBhcmUgd3JhcHBlZCBpbiBgdHJ5Li4uZXhj
-ZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IsIE92ZXJmbG93RXJyb3IpYCBi
-bG9ja3MuCiAgIC0gSWYgY29udmVyc2lvbiBmYWlscyAoZHVlIHRvIGludmFs
-aWQgdGV4dCwgY29ycnVwdGVkIGlucHV0cywgb3IgaW50ZWdlciBvdmVyZmxv
-dyksIHRoZSBmdW5jdGlvbiBncmFjZWZ1bGx5IHJldHVybnMgYSBuZXV0cmFs
-IGRlZmF1bHQgKGAwYCBvciBgKDAsIDAsIDApYCkgd2l0aG91dCBjcmFzaGlu
-ZyB0aGUgYXBwbGljYXRpb24uCgo0LiAqKklucHV0IE5vcm1hbGl6YXRpb246
-KioKICAgLSBDdXJyZW5jeSBwcmVmaXhlcyAoYCJScy4iYCwgYCJScyJgLCBg
-InJzImAsIGAi4oK5ImApLCBjb21tYXMsIGFuZCBleHRyYW5lb3VzIHNwYWNl
-cyBhcmUgc3RyaXBwZWQgc3lzdGVtYXRpY2FsbHkuCiAgIC0gQWxsIHdoaXRl
-c3BhY2UgY2hhcmFjdGVycyAoaW5jbHVkaW5nIHRhYnMgYW5kIG5ld2xpbmVz
-KSBhcmUgY29sbGFwc2VkIHVzaW5nIGAnJy5qb2luKHBhbi5zcGxpdCgpKWAu
-CgotLS0KCiMjIDQuIFZlcmlmaWNhdGlvbiBhbmQgUmVzdWx0cyBTdW1tYXJ5
-Cgp8IE1ldHJpYyB8IEJlZm9yZSBGaXggKEJ1Z2d5KSB8IEFmdGVyIEZpeCAo
-RGVmZW5zaXZlKSB8CnwtLS18LS0tfC0tLXwKfCBgcHl0aG9uIGluY29tZV90
-YXhfcGFyc2VyLnB5YCAoVmFsaWQgSW5wdXRzKSB8IFdvcmtzIChDbGVhbmVk
-OiBgQUJDREUxMjM0RmApIHwgV29ya3MgKENsZWFuZWQ6IGBBQkNERTEyMzRG
-YCkgfAp8IGBweXRob24gaW5jb21lX3RheF9wYXJzZXIucHlgIChFbXB0eS9N
-YWxmb3JtZWQpIHwgQ3Jhc2hlcyAoYFZhbHVlRXJyb3JgIC8gYEF0dHJpYnV0
-ZUVycm9yYCkgfCBIYW5kbGVkIHNhZmVseSAoYCIiYCwgYDBgLCBgKDAsIDAs
-IDApYCkgfAp8IGBweXRlc3QgdGVzdF9pbmNvbWVfdGF4X3BhcnNlci5weWAg
-fCAqKjMgRkFJTEVEKiogb24gYnVnZ3kgY29kZSB8ICoqNiBQQVNTRUQqKiBp
-biAwLjQycyAoMTAwKyBmdXp6ZWQgY2FzZXMvdGVzdCkgfAo=
+# Lab 7: Fuzzing for Input Validation Bugs — Reflection
+
+**Student Name:** Kushagra Bhandari  
+**SRN:** PES1UG24CS245  
+**Course:** Software Engineering Lab (UE22CS341AA2 / UE22CS342AA2)  
+**Section / Roll:** Section D, Roll 57  
+**Module:** `income_tax_parser.py` / `processor.py`  
+**Test Suite:** `test_income_tax_parser.py` / `test_processor.py`  
+
+---
+
+## 1. What is fuzz testing and how does Hypothesis differ from traditional unit testing?
+
+**Fuzz testing (fuzzing)** is a dynamic software testing technique where a system or function is executed with randomized, unexpected, malformed, or boundary-breaking inputs to detect crashes, unhandled exceptions, memory leaks, and security vulnerabilities.
+
+**Hypothesis vs. Traditional Unit Testing:**
+- **Traditional Unit Testing (Example-Based):** The developer writes specific test cases with manually chosen inputs (e.g., asserting that `sanitize_string("!hello!") == "hello"`). This approach is heavily biased toward the developer's assumptions and typically validates only the "happy path" or obvious corner cases.
+- **Hypothesis (Property-Based Fuzz Testing):** Instead of individual input examples, the tester defines general *properties* or *invariants* that must always hold true (e.g., "for any text or None input, this function must execute without crashing or raising an unhandled exception"). Hypothesis automatically generates hundreds of pseudo-random, diverse inputs across character sets, extreme lengths, and boundary values.
+- **Shrinking:** When a failure occurs, Hypothesis automatically performs input minimization ("shrinking"). It systematically reduces a complex failing input to the simplest possible counterexample (e.g., reducing a long Unicode string causing a crash down to `s = ''` or `s = None`), making debugging fast and straightforward.
+
+---
+
+## 2. What categories of bugs did fuzzing uncover in the application that manual testing missed?
+
+When the original application was run manually using sample inputs (`"abcde 1234f"`, `"Rs 12,50,000"`, `"250000-500000:5"`), it appeared to work correctly. However, Hypothesis fuzzing uncovered critical unhandled input validation bugs across all three functions:
+
+### A. Null Pointer / Type Dereference (`AttributeError`)
+- **Functions:** `clean_pan()`, `parse_amount()`, `parse_tax_slab()`
+- **Failing Input:** `s = None`
+- **Issue:** The original functions assumed inputs would always be strings and invoked methods like `.strip()`, `.replace()`, and `.split()` directly. When `None` was provided, Python immediately threw `AttributeError: 'NoneType' object has no attribute 'strip'`.
+
+### B. Unchecked String Conversions (`ValueError`)
+- **Function:** `parse_amount()`
+- **Failing Inputs:** `s = ''`, `s = 'Rs'`, `s = 'abc'`, `s = '   '`
+- **Issue:** After stripping `"Rs"` and commas, empty or alphabetic strings were passed directly to `int(text)`. This resulted in `ValueError: invalid literal for int() with base 10: ''`.
+
+### C. Unsafe Structural Unpacking (`ValueError`)
+- **Function:** `parse_tax_slab()`
+- **Failing Inputs:** `s = ''`, `s = ':'`, `s = '250000'`, `s = '1:2:3'`
+- **Issue:** The code executed `limits, rate = line.split(':')` and `low, high = limits.split('-')` without first checking the length of the split arrays. Any input lacking a colon or hyphen, or containing extra delimiters, caused `ValueError: not enough values to unpack` or `ValueError: too many values to unpack`.
+
+### D. Type Fragility with Non-String Inputs
+- **All Functions:**
+- When integers, floats, or booleans were supplied instead of strings, string methods raised immediate `AttributeError`.
+
+---
+
+## 3. How does defensive programming protect applications against malformed inputs discovered during fuzzing?
+
+Defensive programming is the practice of designing code under the assumption that unexpected, invalid, or adversarial inputs will occur. The following defensive strategies were implemented:
+
+1. **Explicit Null and Type Checking:**
+   - Functions immediately verify if the input is `None` and return safe defaults (e.g., `""` for strings, `0` for numbers, `(0, 0, 0)` for slabs).
+   - If a non-string type is passed, functions either convert it safely (`str(pan)`) or return a fallback.
+
+2. **Deliberate Structural Validation (Look Before You Leap - LBYL):**
+   - For `parse_tax_slab`, rather than blindly unpacking `line.split(':')`, the code validates `if len(parts) != 2: return (0, 0, 0)`.
+   - Limits are split and verified before unpacking.
+
+3. **Exception Envelopes with Safe Fallbacks (Easier to Ask Forgiveness - EAFP):**
+   - Integer conversion calls (`int()`) are wrapped in `try...except (ValueError, TypeError, OverflowError)` blocks.
+   - If conversion fails (due to invalid text, corrupted inputs, or integer overflow), the function gracefully returns a neutral default (`0` or `(0, 0, 0)`) without crashing the application.
+
+4. **Input Normalization:**
+   - Currency prefixes (`"Rs."`, `"Rs"`, `"rs"`, `"₹"`), commas, and extraneous spaces are stripped systematically.
+   - All whitespace characters (including tabs and newlines) are collapsed using `''.join(pan.split())`.
+
+---
+
+## 4. Verification and Results Summary
+
+| Metric | Before Fix (Buggy) | After Fix (Defensive) |
+|---|---|---|
+| `python income_tax_parser.py` (Valid Inputs) | Works (Cleaned: `ABCDE1234F`) | Works (Cleaned: `ABCDE1234F`) |
+| `python income_tax_parser.py` (Empty/Malformed) | Crashes (`ValueError` / `AttributeError`) | Handled safely (`""`, `0`, `(0, 0, 0)`) |
+| `pytest test_income_tax_parser.py` | **3 FAILED** on buggy code | **6 PASSED** in 0.42s (100+ fuzzed cases/test) |

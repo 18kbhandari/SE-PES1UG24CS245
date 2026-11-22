@@ -1,83 +1,105 @@
-IiIiCkh5cG90aGVzaXMgcHJvcGVydHktYmFzZWQgZnV6eiB0ZXN0cyBmb3Ig
-TGFiIDcgLSBJbmNvbWUgVGF4IFBhcnNlci4KVGVzdHMgaW5wdXQgdmFsaWRh
-dGlvbiwgaW52YXJpYW50cywgYW5kIGZhbGxiYWNrIGJlaGF2aW9yIGFjcm9z
-cwphcmJpdHJhcnkgc3RyaW5ncywgTm9uZSwgbnVtZXJpYyB0eXBlcywgbWFs
-Zm9ybWVkIGZvcm1hdHMsIGFuZCBib3VuZGFyeSB2YWx1ZXMuCiIiIgpmcm9t
-IGh5cG90aGVzaXMgaW1wb3J0IGdpdmVuLCBzdHJhdGVnaWVzIGFzIHN0CmZy
-b20gaW5jb21lX3RheF9wYXJzZXIgaW1wb3J0IGNsZWFuX3BhbiwgcGFyc2Vf
-YW1vdW50LCBwYXJzZV90YXhfc2xhYgoKIyBDb21wcmVoZW5zaXZlIGZ1enpp
-bmcgc3RyYXRlZ3kgZ2VuZXJhdGluZyBhcmJpdHJhcnkgdGV4dCwgbnVsbHMs
-IG51bWJlcnMsIGFuZCB0eXBlcwpmdXp6X2lucHV0ID0gc3Qub25lX29mKAog
-ICAgc3QudGV4dCgpLAogICAgc3Qubm9uZSgpLAogICAgc3QuaW50ZWdlcnMo
-bWluX3ZhbHVlPS0xMCoqMTIsIG1heF92YWx1ZT0xMCoqMTIpLAogICAgc3Qu
-ZmxvYXRzKGFsbG93X25hbj1UcnVlLCBhbGxvd19pbmZpbml0eT1UcnVlKSwK
-ICAgIHN0LmJvb2xlYW5zKCksCikKCgpAZ2l2ZW4oZnV6el9pbnB1dCkKZGVm
-IHRlc3RfY2xlYW5fcGFuX25vX2NyYXNoKHMpOgogICAgIiIiCiAgICBjbGVh
-bl9wYW4gbXVzdCBuZXZlciBjcmFzaCBvbiBhbnkgaW5wdXQuCiAgICBBc3Nl
-cnRzOgogICAgLSBSZXR1cm4gdmFsdWUgaXMgYWx3YXlzIGEgc3RyaW5nLgog
-ICAgLSBObyB3aGl0ZXNwYWNlIGNoYXJhY3RlcnMgcmVtYWluLgogICAgLSBS
-ZXN1bHQgaXMgYWx3YXlzIHVwcGVyY2FzZS4KICAgIC0gTm9uZSBvciBibGFu
-ayBpbnB1dHMgcmV0dXJuIGVtcHR5IHN0cmluZy4KICAgICIiIgogICAgcmVz
-ID0gY2xlYW5fcGFuKHMpCiAgICBhc3NlcnQgaXNpbnN0YW5jZShyZXMsIHN0
-cikKICAgIGFzc2VydCBub3QgYW55KGMuaXNzcGFjZSgpIGZvciBjIGluIHJl
-cykKICAgIGFzc2VydCByZXMgPT0gcmVzLnVwcGVyKCkKICAgIGlmIHMgaXMg
-Tm9uZSBvciAoaXNpbnN0YW5jZShzLCBzdHIpIGFuZCBub3Qgcy5zdHJpcCgp
-KToKICAgICAgICBhc3NlcnQgcmVzID09ICIiCgoKQGdpdmVuKGZ1enpfaW5w
-dXQpCmRlZiB0ZXN0X3BhcnNlX2Ftb3VudF9ub19jcmFzaChzKToKICAgICIi
-IgogICAgcGFyc2VfYW1vdW50IG11c3QgbmV2ZXIgY3Jhc2ggb24gYW55IGlu
-cHV0LgogICAgQXNzZXJ0czoKICAgIC0gUmV0dXJuIHZhbHVlIGlzIGFsd2F5
-cyBhbiBpbnRlZ2VyLgogICAgLSBOb25lIG9yIGVtcHR5IHN0cmluZyBpbnB1
-dCByZXR1cm5zIGZhbGxiYWNrIDAuCiAgICAtIERpcmVjdCBpbnRlZ2VyIGlu
-cHV0cyBhcmUgcHJlc2VydmVkLgogICAgIiIiCiAgICByZXMgPSBwYXJzZV9h
-bW91bnQocykKICAgIGFzc2VydCBpc2luc3RhbmNlKHJlcywgaW50KQogICAg
-aWYgcyBpcyBOb25lIG9yIChpc2luc3RhbmNlKHMsIHN0cikgYW5kIG5vdCBz
-LnN0cmlwKCkpOgogICAgICAgIGFzc2VydCByZXMgPT0gMAogICAgaWYgaXNp
-bnN0YW5jZShzLCBpbnQpIGFuZCBub3QgaXNpbnN0YW5jZShzLCBib29sKToK
-ICAgICAgICBhc3NlcnQgcmVzID09IHMKCgpAZ2l2ZW4oZnV6el9pbnB1dCkK
-ZGVmIHRlc3RfcGFyc2VfdGF4X3NsYWJfbm9fY3Jhc2gocyk6CiAgICAiIiIK
-ICAgIHBhcnNlX3RheF9zbGFiIG11c3QgbmV2ZXIgY3Jhc2ggb24gYW55IGlu
-cHV0LgogICAgQXNzZXJ0czoKICAgIC0gUmV0dXJuIHZhbHVlIGlzIGFsd2F5
-cyBhIDMtdHVwbGUgb2YgaW50ZWdlcnMgKGxvdywgaGlnaCwgcmF0ZSkuCiAg
-ICAtIE5vbmUgb3Igbm9uLXN0cmluZyBpbnB1dHMgcmV0dXJuIGZhbGxiYWNr
-ICgwLCAwLCAwKS4KICAgIC0gTWFsZm9ybWVkIGxpbmVzIGxhY2tpbmcgY29s
-b24gb3IgaHlwaGVuIHJldHVybiAoMCwgMCwgMCkuCiAgICAiIiIKICAgIHJl
-cyA9IHBhcnNlX3RheF9zbGFiKHMpCiAgICBhc3NlcnQgaXNpbnN0YW5jZShy
-ZXMsIHR1cGxlKQogICAgYXNzZXJ0IGxlbihyZXMpID09IDMKICAgIGFzc2Vy
-dCBhbGwoaXNpbnN0YW5jZSh4LCBpbnQpIGZvciB4IGluIHJlcykKICAgIGlm
-IHMgaXMgTm9uZSBvciBub3QgaXNpbnN0YW5jZShzLCBzdHIpIG9yICI6IiBu
-b3QgaW4gczoKICAgICAgICBhc3NlcnQgcmVzID09ICgwLCAwLCAwKQoKCiMg
-Q29uY3JldGUgdmFsaWRhdGlvbiBhbmQgZWRnZS1jYXNlIHRlc3RzCmRlZiB0
-ZXN0X2NsZWFuX3Bhbl9leHBlY3RlZF9iZWhhdmlvcigpOgogICAgIiIiVmVy
-aWZ5IGV4cGVjdGVkIGhhcHB5IHBhdGggYW5kIGVkZ2UtY2FzZSBiZWhhdmlv
-ciBmb3IgY2xlYW5fcGFuLiIiIgogICAgYXNzZXJ0IGNsZWFuX3BhbigiYWJj
-ZGUgMTIzNGYiKSA9PSAiQUJDREUxMjM0RiIKICAgIGFzc2VydCBjbGVhbl9w
-YW4oIiAgYWIgY2QgIDEyIDM0IHogICIpID09ICJBQkNEMTIzNFoiCiAgICBh
-c3NlcnQgY2xlYW5fcGFuKE5vbmUpID09ICIiCiAgICBhc3NlcnQgY2xlYW5f
-cGFuKCIiKSA9PSAiIgogICAgYXNzZXJ0IGNsZWFuX3BhbigiICAgIikgPT0g
-IiIKICAgIGFzc2VydCBjbGVhbl9wYW4oMTIzNDUpID09ICIxMjM0NSIKCgpk
-ZWYgdGVzdF9wYXJzZV9hbW91bnRfZXhwZWN0ZWRfYmVoYXZpb3IoKToKICAg
-ICIiIlZlcmlmeSBydXBlZSBwcmVmaXhlcywgY29tbWFzLCBhbmQgZmFsbGJh
-Y2sgYmVoYXZpb3IgZm9yIHBhcnNlX2Ftb3VudC4iIiIKICAgIGFzc2VydCBw
-YXJzZV9hbW91bnQoIlJzIDEyLDUwLDAwMCIpID09IDEyNTAwMDAKICAgIGFz
-c2VydCBwYXJzZV9hbW91bnQoIlJzLiAxMiw1MCwwMDAiKSA9PSAxMjUwMDAw
-CiAgICBhc3NlcnQgcGFyc2VfYW1vdW50KCLigrkxMiw1MCwwMDAiKSA9PSAx
-MjUwMDAwCiAgICBhc3NlcnQgcGFyc2VfYW1vdW50KCIgIDUwLDAwMCAgIikg
-PT0gNTAwMDAKICAgIGFzc2VydCBwYXJzZV9hbW91bnQoIlJzIC01MCwwMDAi
-KSA9PSAtNTAwMDAKICAgIGFzc2VydCBwYXJzZV9hbW91bnQoTm9uZSkgPT0g
-MAogICAgYXNzZXJ0IHBhcnNlX2Ftb3VudCgiIikgPT0gMAogICAgYXNzZXJ0
-IHBhcnNlX2Ftb3VudCgiUnMiKSA9PSAwCiAgICBhc3NlcnQgcGFyc2VfYW1v
-dW50KCJpbnZhbGlkX2Ftb3VudCIpID09IDAKICAgIGFzc2VydCBwYXJzZV9h
-bW91bnQoNTAwMDApID09IDUwMDAwCgoKZGVmIHRlc3RfcGFyc2VfdGF4X3Ns
-YWJfZXhwZWN0ZWRfYmVoYXZpb3IoKToKICAgICIiIlZlcmlmeSBzdGFuZGFy
-ZCBzbGFicywgcGVyY2VudCBzaWducywgYW5kIGZhbGxiYWNrIGJlaGF2aW9y
-IGZvciBwYXJzZV90YXhfc2xhYi4iIiIKICAgIGFzc2VydCBwYXJzZV90YXhf
-c2xhYigiMjUwMDAwLTUwMDAwMDo1IikgPT0gKDI1MDAwMCwgNTAwMDAwLCA1
-KQogICAgYXNzZXJ0IHBhcnNlX3RheF9zbGFiKCIwLTI1MDAwMDowIikgPT0g
-KDAsIDI1MDAwMCwgMCkKICAgIGFzc2VydCBwYXJzZV90YXhfc2xhYigiNTAw
-MDAwLTEwMDAwMDA6MjAlIikgPT0gKDUwMDAwMCwgMTAwMDAwMCwgMjApCiAg
-ICBhc3NlcnQgcGFyc2VfdGF4X3NsYWIoTm9uZSkgPT0gKDAsIDAsIDApCiAg
-ICBhc3NlcnQgcGFyc2VfdGF4X3NsYWIoIiIpID09ICgwLCAwLCAwKQogICAg
-YXNzZXJ0IHBhcnNlX3RheF9zbGFiKCI6IikgPT0gKDAsIDAsIDApCiAgICBh
-c3NlcnQgcGFyc2VfdGF4X3NsYWIoIjI1MDAwMC01MDAwMDAiKSA9PSAoMCwg
-MCwgMCkKICAgIGFzc2VydCBwYXJzZV90YXhfc2xhYigiaW52YWxpZDpzbGFi
-IikgPT0gKDAsIDAsIDApCg==
+"""
+Hypothesis property-based fuzz tests for Lab 7 - Income Tax Parser.
+Tests input validation, invariants, and fallback behavior across
+arbitrary strings, None, numeric types, malformed formats, and boundary values.
+"""
+from hypothesis import given, strategies as st
+from income_tax_parser import clean_pan, parse_amount, parse_tax_slab
+
+# Comprehensive fuzzing strategy generating arbitrary text, nulls, numbers, and types
+fuzz_input = st.one_of(
+    st.text(),
+    st.none(),
+    st.integers(min_value=-10**12, max_value=10**12),
+    st.floats(allow_nan=True, allow_infinity=True),
+    st.booleans(),
+)
+
+
+@given(fuzz_input)
+def test_clean_pan_no_crash(s):
+    """
+    clean_pan must never crash on any input.
+    Asserts:
+    - Return value is always a string.
+    - No whitespace characters remain.
+    - Result is always uppercase.
+    - None or blank inputs return empty string.
+    """
+    res = clean_pan(s)
+    assert isinstance(res, str)
+    assert not any(c.isspace() for c in res)
+    assert res == res.upper()
+    if s is None or (isinstance(s, str) and not s.strip()):
+        assert res == ""
+
+
+@given(fuzz_input)
+def test_parse_amount_no_crash(s):
+    """
+    parse_amount must never crash on any input.
+    Asserts:
+    - Return value is always an integer.
+    - None or empty string input returns fallback 0.
+    - Direct integer inputs are preserved.
+    """
+    res = parse_amount(s)
+    assert isinstance(res, int)
+    if s is None or (isinstance(s, str) and not s.strip()):
+        assert res == 0
+    if isinstance(s, int) and not isinstance(s, bool):
+        assert res == s
+
+
+@given(fuzz_input)
+def test_parse_tax_slab_no_crash(s):
+    """
+    parse_tax_slab must never crash on any input.
+    Asserts:
+    - Return value is always a 3-tuple of integers (low, high, rate).
+    - None or non-string inputs return fallback (0, 0, 0).
+    - Malformed lines lacking colon or hyphen return (0, 0, 0).
+    """
+    res = parse_tax_slab(s)
+    assert isinstance(res, tuple)
+    assert len(res) == 3
+    assert all(isinstance(x, int) for x in res)
+    if s is None or not isinstance(s, str) or ":" not in s:
+        assert res == (0, 0, 0)
+
+
+# Concrete validation and edge-case tests
+def test_clean_pan_expected_behavior():
+    """Verify expected happy path and edge-case behavior for clean_pan."""
+    assert clean_pan("abcde 1234f") == "ABCDE1234F"
+    assert clean_pan("  ab cd  12 34 z  ") == "ABCD1234Z"
+    assert clean_pan(None) == ""
+    assert clean_pan("") == ""
+    assert clean_pan("   ") == ""
+    assert clean_pan(12345) == "12345"
+
+
+def test_parse_amount_expected_behavior():
+    """Verify rupee prefixes, commas, and fallback behavior for parse_amount."""
+    assert parse_amount("Rs 12,50,000") == 1250000
+    assert parse_amount("Rs. 12,50,000") == 1250000
+    assert parse_amount("₹12,50,000") == 1250000
+    assert parse_amount("  50,000  ") == 50000
+    assert parse_amount("Rs -50,000") == -50000
+    assert parse_amount(None) == 0
+    assert parse_amount("") == 0
+    assert parse_amount("Rs") == 0
+    assert parse_amount("invalid_amount") == 0
+    assert parse_amount(50000) == 50000
+
+
+def test_parse_tax_slab_expected_behavior():
+    """Verify standard slabs, percent signs, and fallback behavior for parse_tax_slab."""
+    assert parse_tax_slab("250000-500000:5") == (250000, 500000, 5)
+    assert parse_tax_slab("0-250000:0") == (0, 250000, 0)
+    assert parse_tax_slab("500000-1000000:20%") == (500000, 1000000, 20)
+    assert parse_tax_slab(None) == (0, 0, 0)
+    assert parse_tax_slab("") == (0, 0, 0)
+    assert parse_tax_slab(":") == (0, 0, 0)
+    assert parse_tax_slab("250000-500000") == (0, 0, 0)
+    assert parse_tax_slab("invalid:slab") == (0, 0, 0)

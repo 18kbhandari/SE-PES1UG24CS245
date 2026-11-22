@@ -1,1 +1,2 @@
-aHlwb3RoZXNpcz49Ni4wLjAKcHl0ZXN0Pj04LjAuMAo=
+hypothesis>=6.0.0
+pytest>=8.0.0

@@ -1,72 +1,99 @@
-IiIiCkxhYiA3OiBGdXp6aW5nIGZvciBJbnB1dCBWYWxpZGF0aW9uIEJ1Z3MK
-TW9kdWxlOiBpbmNvbWVfdGF4X3BhcnNlci5weQoKSGFyZGVuZWQgYWdhaW5z
-dCBtYWxmb3JtZWQsIG1pc3NpbmcsIHVuZXhwZWN0ZWQsIGFuZCBlZGdlLWNh
-c2UgaW5wdXRzCmRpc2NvdmVyZWQgdGhyb3VnaCBIeXBvdGhlc2lzIHByb3Bl
-cnR5LWJhc2VkIGZ1enogdGVzdGluZy4KIiIiCgoKZGVmIGNsZWFuX3Bhbihw
-YW4pOgogICAgIiIiCiAgICBSZW1vdmVzIHdoaXRlc3BhY2UgZnJvbSBhIFBB
-TiBzdHJpbmcgYW5kIGNvbnZlcnRzIGl0IHRvIHVwcGVyY2FzZS4KICAgIFNh
-ZmVseSBoYW5kbGVzIE5vbmUsIG5vbi1zdHJpbmcgdHlwZXMsIGFuZCBlbXB0
-eSBpbnB1dHMgd2l0aG91dCBjcmFzaGluZy4KICAgICIiIgogICAgaWYgcGFu
-IGlzIE5vbmU6CiAgICAgICAgcmV0dXJuICIiCiAgICBpZiBub3QgaXNpbnN0
-YW5jZShwYW4sIHN0cik6CiAgICAgICAgcGFuID0gc3RyKHBhbikKICAgIHJl
-dHVybiAiIi5qb2luKHBhbi5zcGxpdCgpKS51cHBlcigpCgoKZGVmIHBhcnNl
-X2Ftb3VudCh0ZXh0KToKICAgICIiIgogICAgQ29udmVydHMgYSBjdXJyZW5j
-eSBhbW91bnQgc3RyaW5nIChlLmcuICdScyAxMiw1MCwwMDAnLCAn4oK5MTIs
-NTAsMDAwJykgaW50byBhbiBpbnRlZ2VyLgogICAgU2FmZWx5IGhhbmRsZXMg
-Tm9uZSwgbnVtZXJpYyB0eXBlcywgY3VycmVuY3kgcHJlZml4ZXMgKCdScycs
-ICdScy4nLCAn4oK5JywgJ0lOUicpLAogICAgY29tbWFzLCBtYWxmb3JtZWQg
-c3RyaW5ncywgYW5kIGVtcHR5IGlucHV0cyB3aXRob3V0IGNyYXNoaW5nLgog
-ICAgUmV0dXJucyAwIGlmIHRoZSBhbW91bnQgY2Fubm90IGJlIHBhcnNlZC4K
-ICAgICIiIgogICAgaWYgdGV4dCBpcyBOb25lOgogICAgICAgIHJldHVybiAw
-CiAgICBpZiBpc2luc3RhbmNlKHRleHQsIChpbnQsIGZsb2F0KSk6CiAgICAg
-ICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gaW50KHRleHQpCiAgICAgICAg
-ZXhjZXB0IChWYWx1ZUVycm9yLCBPdmVyZmxvd0Vycm9yKToKICAgICAgICAg
-ICAgcmV0dXJuIDAKICAgIGlmIG5vdCBpc2luc3RhbmNlKHRleHQsIHN0cik6
-CiAgICAgICAgcmV0dXJuIDAKCiAgICBjbGVhbmVkID0gdGV4dC5zdHJpcCgp
-CiAgICAjIFJlbW92ZSBjb21tb24gSW5kaWFuIGN1cnJlbmN5IHN5bWJvbHMg
-YW5kIGFiYnJldmlhdGlvbnMKICAgIGNsZWFuZWQgPSBjbGVhbmVkLnJlcGxh
-Y2UoIlJzLiIsICIiKS5yZXBsYWNlKCJycy4iLCAiIikKICAgIGNsZWFuZWQg
-PSBjbGVhbmVkLnJlcGxhY2UoIlJzIiwgIiIpLnJlcGxhY2UoInJzIiwgIiIp
-LnJlcGxhY2UoIlJTIiwgIiIpCiAgICBjbGVhbmVkID0gY2xlYW5lZC5yZXBs
-YWNlKCLigrkiLCAiIikucmVwbGFjZSgiSU5SIiwgIiIpLnJlcGxhY2UoImlu
-ciIsICIiKQogICAgY2xlYW5lZCA9IGNsZWFuZWQucmVwbGFjZSgiLCIsICIi
-KS5yZXBsYWNlKCIgIiwgIiIpCgogICAgdHJ5OgogICAgICAgIHJldHVybiBp
-bnQoY2xlYW5lZCkKICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9y
-LCBPdmVyZmxvd0Vycm9yKToKICAgICAgICByZXR1cm4gMAoKCmRlZiBwYXJz
-ZV90YXhfc2xhYihsaW5lKToKICAgICIiIgogICAgUGFyc2VzIGEgdGF4IHNs
-YWIgc3RyaW5nICdMT1ctSElHSDpSQVRFJyBpbnRvIGEgKGxvdywgaGlnaCwg
-cmF0ZSkgdHVwbGUuCiAgICBTYWZlbHkgaGFuZGxlcyBOb25lLCBub24tc3Ry
-aW5nLCBtYWxmb3JtZWQsIG5lZ2F0aXZlLCBhbmQgZW1wdHkgaW5wdXRzCiAg
-ICB3aXRob3V0IGNyYXNoaW5nLiBSZXR1cm5zICgwLCAwLCAwKSBpZiBwYXJz
-aW5nIGZhaWxzLgogICAgIiIiCiAgICBpZiBsaW5lIGlzIE5vbmUgb3Igbm90
-IGlzaW5zdGFuY2UobGluZSwgc3RyKToKICAgICAgICByZXR1cm4gKDAsIDAs
-IDApCgogICAgdHJ5OgogICAgICAgIHBhcnRzID0gbGluZS5zdHJpcCgpLnNw
-bGl0KCI6IikKICAgICAgICBpZiBsZW4ocGFydHMpICE9IDI6CiAgICAgICAg
-ICAgIHJldHVybiAoMCwgMCwgMCkKCiAgICAgICAgbGltaXRzX3N0ciwgcmF0
-ZV9zdHIgPSBwYXJ0c1swXS5zdHJpcCgpLCBwYXJ0c1sxXS5zdHJpcCgpCiAg
-ICAgICAgcmF0ZSA9IGludChyYXRlX3N0ci5yZXBsYWNlKCIlIiwgIiIpLnN0
-cmlwKCkpCgogICAgICAgIGxpbWl0X3BhcnRzID0gbGltaXRzX3N0ci5zcGxp
-dCgiLSIpCiAgICAgICAgaWYgbGVuKGxpbWl0X3BhcnRzKSA9PSAyOgogICAg
-ICAgICAgICBsb3cgPSBpbnQobGltaXRfcGFydHNbMF0uc3RyaXAoKS5yZXBs
-YWNlKCIsIiwgIiIpKQogICAgICAgICAgICBoaWdoID0gaW50KGxpbWl0X3Bh
-cnRzWzFdLnN0cmlwKCkucmVwbGFjZSgiLCIsICIiKSkKICAgICAgICBlbGlm
-IGxlbihsaW1pdF9wYXJ0cykgPT0gMyBhbmQgbGltaXRzX3N0ci5zdGFydHN3
-aXRoKCItIik6CiAgICAgICAgICAgIGxvdyA9IC1pbnQobGltaXRfcGFydHNb
-MV0uc3RyaXAoKS5yZXBsYWNlKCIsIiwgIiIpKQogICAgICAgICAgICBoaWdo
-ID0gaW50KGxpbWl0X3BhcnRzWzJdLnN0cmlwKCkucmVwbGFjZSgiLCIsICIi
-KSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gKDAsIDAsIDAp
-CgogICAgICAgIHJldHVybiAobG93LCBoaWdoLCByYXRlKQogICAgZXhjZXB0
-IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IsIE92ZXJmbG93RXJyb3IpOgogICAg
-ICAgIHJldHVybiAoMCwgMCwgMCkKCgpkZWYgbWFpbigpOgogICAgcHJpbnQo
-Ij09PT0gUnVubmluZyBjbGVhbl9wYW4gPT09PSIpCiAgICB2YWx1ZSA9IGlu
-cHV0KCJFbnRlciBhIFBBTiAoZS5nLiBhYmNkZSAxMjM0Zik6ICIpCiAgICBw
-cmludCgiQ2xlYW5lZCBQQU46IiwgY2xlYW5fcGFuKHZhbHVlKSkKCiAgICBw
-cmludCgiXG49PT09IFJ1bm5pbmcgcGFyc2VfYW1vdW50ID09PT0iKQogICAg
-dmFsdWUgPSBpbnB1dCgiRW50ZXIgYW4gYW1vdW50IChlLmcuIFJzIDEyLDUw
-LDAwMCk6ICIpCiAgICBwcmludCgiQW1vdW50IGluIHJ1cGVlczoiLCBwYXJz
-ZV9hbW91bnQodmFsdWUpKQoKICAgIHByaW50KCJcbj09PT0gUnVubmluZyBw
-YXJzZV90YXhfc2xhYiA9PT09IikKICAgIHZhbHVlID0gaW5wdXQoIkVudGVy
-IGEgdGF4IHNsYWIgYXMgTE9XLUhJR0g6UkFURSAoZS5nLiAyNTAwMDAtNTAw
-MDAwOjUpOiAiKQogICAgcHJpbnQoIlRheCBzbGFiIChsb3csIGhpZ2gsIHJh
-dGUpOiIsIHBhcnNlX3RheF9zbGFiKHZhbHVlKSkKCgppZiBfX25hbWVfXyA9
-PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""
+Lab 7: Fuzzing for Input Validation Bugs
+Module: income_tax_parser.py
+
+Hardened against malformed, missing, unexpected, and edge-case inputs
+discovered through Hypothesis property-based fuzz testing.
+"""
+
+
+def clean_pan(pan):
+    """
+    Removes whitespace from a PAN string and converts it to uppercase.
+    Safely handles None, non-string types, and empty inputs without crashing.
+    """
+    if pan is None:
+        return ""
+    if not isinstance(pan, str):
+        pan = str(pan)
+    return "".join(pan.split()).upper()
+
+
+def parse_amount(text):
+    """
+    Converts a currency amount string (e.g. 'Rs 12,50,000', '₹12,50,000') into an integer.
+    Safely handles None, numeric types, currency prefixes ('Rs', 'Rs.', '₹', 'INR'),
+    commas, malformed strings, and empty inputs without crashing.
+    Returns 0 if the amount cannot be parsed.
+    """
+    if text is None:
+        return 0
+    if isinstance(text, (int, float)):
+        try:
+            return int(text)
+        except (ValueError, OverflowError):
+            return 0
+    if not isinstance(text, str):
+        return 0
+
+    cleaned = text.strip()
+    # Remove common Indian currency symbols and abbreviations
+    cleaned = cleaned.replace("Rs.", "").replace("rs.", "")
+    cleaned = cleaned.replace("Rs", "").replace("rs", "").replace("RS", "")
+    cleaned = cleaned.replace("₹", "").replace("INR", "").replace("inr", "")
+    cleaned = cleaned.replace(",", "").replace(" ", "")
+
+    try:
+        return int(cleaned)
+    except (ValueError, TypeError, OverflowError):
+        return 0
+
+
+def parse_tax_slab(line):
+    """
+    Parses a tax slab string 'LOW-HIGH:RATE' into a (low, high, rate) tuple.
+    Safely handles None, non-string, malformed, negative, and empty inputs
+    without crashing. Returns (0, 0, 0) if parsing fails.
+    """
+    if line is None or not isinstance(line, str):
+        return (0, 0, 0)
+
+    try:
+        parts = line.strip().split(":")
+        if len(parts) != 2:
+            return (0, 0, 0)
+
+        limits_str, rate_str = parts[0].strip(), parts[1].strip()
+        rate = int(rate_str.replace("%", "").strip())
+
+        limit_parts = limits_str.split("-")
+        if len(limit_parts) == 2:
+            low = int(limit_parts[0].strip().replace(",", ""))
+            high = int(limit_parts[1].strip().replace(",", ""))
+        elif len(limit_parts) == 3 and limits_str.startswith("-"):
+            low = -int(limit_parts[1].strip().replace(",", ""))
+            high = int(limit_parts[2].strip().replace(",", ""))
+        else:
+            return (0, 0, 0)
+
+        return (low, high, rate)
+    except (ValueError, TypeError, OverflowError):
+        return (0, 0, 0)
+
+
+def main():
+    print("==== Running clean_pan ====")
+    value = input("Enter a PAN (e.g. abcde 1234f): ")
+    print("Cleaned PAN:", clean_pan(value))
+
+    print("\n==== Running parse_amount ====")
+    value = input("Enter an amount (e.g. Rs 12,50,000): ")
+    print("Amount in rupees:", parse_amount(value))
+
+    print("\n==== Running parse_tax_slab ====")
+    value = input("Enter a tax slab as LOW-HIGH:RATE (e.g. 250000-500000:5): ")
+    print("Tax slab (low, high, rate):", parse_tax_slab(value))
+
+
+if __name__ == "__main__":
+    main()
